@@ -1,26 +1,34 @@
-<h1 align="center"> E101 레서판다 팀 자율 프로젝트 </h1>
+# 📝 Hype-note
 
-## 📝 목차
+<div>
+  <h3>CS 학습 도우미 플랫폼</h3>
+</div>
 
-[프로젝트 개요](#item-one)
+<br/>
 
-[기술 스택](#item-three)
+## 📅 기간
 
-[서버 아키텍처](#item-four)
+- **2023.10.09 ~ 2023.11.17(6주)**
 
-[서비스 구현 화면](#item-five)
+<br/>
 
-[팀원 소개](#item-two)
+## 🔎 목차
 
-[느낀 점](#item-end)
+1. <a href="#item-one">📖 프로젝트 개요</a>
+1. <a href="#item-three">🛠️ 기술 스택</a>
+1. <a href="#item-four">⚙️ 아키텍처</a>
+1. <a href="#item-five">🗂️ 프로젝트 파일 구조</a>
+1. <a href="#item-six">🖥 서비스 구현 화면</a>
+1. <a href="#item-two">👥 팀원 소개</a>
+
+<br/>
+
 
 ## 📖 프로젝트 개요
 
 <a name="item-one"></a>
 
 <div>
-
-<strong>진행 기간 </strong>: 2023.10.09 ~ 2023.11.17
 
 <strong>목표</strong>
 
@@ -46,14 +54,14 @@
 
 <br/>
 
-## 💻 IDE
+### 💻 IDE
 
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <br/>
 
-## 📱 Frontend
+### 📱 Frontend
 
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -75,7 +83,7 @@
 
 <br/>
 
-## 💾 Backend
+### 💾 Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -93,7 +101,7 @@
 
 <br/>
 
-## 🔃 DevOPS
+### 🔃 DevOPS
 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -102,7 +110,7 @@
 
 <br/>
 
-## ⚙️ Architecture
+## ⚙️ 아키텍처
 
 <a name="item-four"></a>
 
@@ -447,7 +455,9 @@
 
 <br/>
 
-## 영상
+## 참고
 
-SSAFY 9기 2학기 자율 프로젝트 - 한입 노트 (Hype Note) [UCC 보러가기](https://www.youtube.com/watch?v=UKqX69leV5k)  
-<br/>
+SSAFY 9기 2학기 자율 프로젝트 - 한입 노트 (Hype Note) 
+
+[🎬UCC 보러가기](https://www.youtube.com/watch?v=UKqX69leV5k)  
+[📚Notion 보러가기](https://potent-stop-a1b.notion.site/3ace755f169f4300926eca82acd5013d?v=55b7947446e64809ac019a4897f37b08&pvs=4)
