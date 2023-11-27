@@ -15,14 +15,13 @@
 ## 🔎 목차
 
 1. <a href="#item-one">📖 프로젝트 개요</a>
-1. <a href="#item-three">🛠️ 기술 스택</a>
-1. <a href="#item-four">⚙️ 아키텍처</a>
-1. <a href="#item-five">🗂️ 프로젝트 파일 구조</a>
-1. <a href="#item-six">🖥 서비스 구현 화면</a>
-1. <a href="#item-two">👥 팀원 소개</a>
+2. <a href="#item-three">🛠️ 기술 스택</a>
+3. <a href="#item-four">⚙️ 아키텍처</a>
+4. <a href="#item-five">🗂️ 프로젝트 파일 구조</a>
+5. <a href="#item-six">🖥 서비스 구현 화면</a>
+6. <a href="#item-two">👥 팀원 소개</a>
 
 <br/>
-
 
 ## 📖 프로젝트 개요
 
@@ -68,7 +67,7 @@
 ![React-Query](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
@@ -85,15 +84,15 @@
 
 ### 💾 Backend
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -117,6 +116,14 @@
 ![image.png](README_assets/73d0eb2c4e0f672b49e231b2767145e6c75e0960.png)
 
 <br/>
+
+## 📖 ERD
+
+![image (10).png](README_assets/1557123a6161c7d4aee409edb739aa0d70f5bf37.png)
+
+
+
+
 
 ## 🗂️ 프로젝트 파일 구조
 
@@ -457,7 +464,7 @@
 
 ## 참고
 
-SSAFY 9기 2학기 자율 프로젝트 - 한입 노트 (Hype Note) 
+SSAFY 9기 2학기 자율 프로젝트 - 한입 노트 (Hype Note)
 
 [🎬UCC 보러가기](https://www.youtube.com/watch?v=UKqX69leV5k)  
 [📚Notion 보러가기](https://potent-stop-a1b.notion.site/3ace755f169f4300926eca82acd5013d?v=55b7947446e64809ac019a4897f37b08&pvs=4)
